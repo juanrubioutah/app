@@ -1,9 +1,0 @@
-App/local.properties
-App/local.properties
-App/.idea
-App/.gradle
-App/android
-App/build/generated/
-App/android/build/generated/source/buildConfig/debug/com/zenapps/game/
-App/android/android.iml
-App/android/build/generated/source/buildConfig/androidTest/debug/com/zenapps/game/test/BuildConfig.java
